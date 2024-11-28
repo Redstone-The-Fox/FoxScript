@@ -1,0 +1,5 @@
+:: This is the code file, modify it how you like
+let hw: "Hello, World!"
+print "Variable named 'hw' is '"
+var-print {hw}
+printl "'"

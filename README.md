@@ -2,6 +2,7 @@
 Simple programming language:
 
 Current Features:
-- Printing: `printl` and `print`
-- Variables: `let name: value` and `printvars`
+- Printing: `printl / print`
+- Variables: `let name: value` and `printvars` and `var-printl / var-print`
 - Math: `math-printl`
+- Comments: `:: Example`
